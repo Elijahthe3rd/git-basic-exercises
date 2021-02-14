@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # git-basic-exercises
 ---
 
@@ -21,3 +22,6 @@ I quote `I don't want your love thats not why i do this, i break my i'd make my 
 }
 
 ```
+=======
+booya
+>>>>>>> history
